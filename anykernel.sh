@@ -4,13 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=xBoreUp strmbreakr by xyzuan@xyzprjkt
+kernel.string=perf_but_not_stock Kernel by Wahyu Studiawan
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=lavender
+device.name1=beryllium
 supported.versions=9-12
 supported.patchlevels=
 '; } # end properties
