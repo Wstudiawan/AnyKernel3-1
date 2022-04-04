@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=perf_but_not_stock Kernel by Wahyu Studiawan
+kernel.string=Parak Karakah Kernel by Wahyu Studiawan
 do.devicecheck=1
 do.modules=0
 do.systemless=1
